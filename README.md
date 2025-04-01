@@ -1,6 +1,6 @@
 ### Hi there, I'm Chirag Tank 👋
 
-🚀 **Full-Stack Web Developer** | **React, Next.js, Node.js, Nhost, n8n**
+🚀 **Software Developer** | **React, Next.js, Node.js, Nhost, n8n**
 
 ---
 
