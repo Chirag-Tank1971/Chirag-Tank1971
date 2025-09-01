@@ -1,6 +1,6 @@
 ### Hi there, I'm Chirag Tank 👋
 
-🚀 **Software Developer** | **React, Next.js, Node.js, Nhost, n8n**
+🚀 **Software Developer** | **React, Next.js, Node.js, Nhost, n8n, Asp .Net Core**
 
 ---
 
@@ -21,9 +21,9 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Frontend**: React.js, Next.js, Tailwind CSS
-- **Backend**: Node.js, Nhost,  Express.js
-- **Databases**: PostgreSQL, MongoDB , SQL
+- **Frontend**: React.js, Next.js, Tailwind CSS, Angular
+- **Backend**: Node.js, Nhost,  Express.js, c#
+- **Databases**: PostgreSQL, MongoDB, SQL server, MySQL
 - **Automation & Workflows**: n8n, OpenRouter
 - **Tools & DevOps**: Git, Vercel, Netlify
 
@@ -37,7 +37,7 @@
 ---
 
 ### 🌍 Let's Connect!
-- 🚀 [Portfolio](#https://chirag-tank1971.github.io/Chirag-s_Portfolio/)  
+- 🚀 [Portfolio](https://portfolio-chiragtank.vercel.app/)  
 - 💼 [LinkedIn](#https://www.linkedin.com/in/chirag-tank-72220919b/)  
 - 📧 [Email](mailto:chiragtank1971@gmail.com)
 
