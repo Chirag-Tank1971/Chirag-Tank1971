@@ -11,9 +11,13 @@
 🔹 Building innovative projects, including:
 
 🏡 SwiftMart – An e-commerce platform built with modern web technologies.
+
 📰 Personalized News Digest – AI-powered news summarization using Nhost & n8n.
+
 🌐 Portfolio Website – Showcasing my projects and skills with a clean UI.
+
 ✅ Task Management System – A productivity tool for managing tasks efficiently.
+
 💬 YapShare – A social media app for sharing posts and connecting with people.
 
 ---
