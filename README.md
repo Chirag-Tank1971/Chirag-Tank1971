@@ -5,6 +5,7 @@
 🔹 Passionate about building efficient and scalable software. I specialize in software development using React, Next.js, Node.js, Dot Net, Nhost, MongoDB, and n8n.
 
 🔹 Completed 3-month internship at The Good Custom as a Full-Stack Web Developer.
+
 🔹 Completed 3-month internship at Pratham Software (PSI) as a Full-Stack .NET Developer.
 
 🔹 Building innovative projects, including:
