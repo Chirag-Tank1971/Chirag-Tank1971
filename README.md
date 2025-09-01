@@ -1,6 +1,6 @@
 ### Hi there, I'm Chirag Tank 👋
 
-🚀 **Full Sack Developer ** | **React, Next.js, Node.js, Nhost, n8n, Asp .Net Core**
+🚀 **Full Sack Developer** | **React, Next.js, Node.js, Nhost, n8n, Asp .Net Core**
 
 ---
 
