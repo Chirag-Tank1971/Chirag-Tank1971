@@ -1,0 +1,43 @@
+# 3D graph style preview
+
+Open this file in your repo to compare styles. To switch, change the file name in the `<img src=...>` line in `README.md`.
+
+### `profile-green-animate.svg`
+
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="420" />
+
+### `profile-green.svg`
+
+<img src="./profile-3d-contrib/profile-green.svg" width="420" />
+
+### `profile-season-animate.svg`
+
+<img src="./profile-3d-contrib/profile-season-animate.svg" width="420" />
+
+### `profile-season.svg`
+
+<img src="./profile-3d-contrib/profile-season.svg" width="420" />
+
+### `profile-south-season-animate.svg`
+
+<img src="./profile-3d-contrib/profile-south-season-animate.svg" width="420" />
+
+### `profile-south-season.svg`
+
+<img src="./profile-3d-contrib/profile-south-season.svg" width="420" />
+
+### `profile-night-view.svg`
+
+<img src="./profile-3d-contrib/profile-night-view.svg" width="420" />
+
+### `profile-night-green.svg`
+
+<img src="./profile-3d-contrib/profile-night-green.svg" width="420" />
+
+### `profile-night-rainbow.svg`
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="420" />
+
+### `profile-gitblock.svg`
+
+<img src="./profile-3d-contrib/profile-gitblock.svg" width="420" />
