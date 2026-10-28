@@ -28,7 +28,7 @@ I build and deploy full-stack applications with **React, Node.js, ASP.NET Core a
 
 ---
 
-## 🧊 My Contributions in 3D
+## 🧊 My Contributions
 
 <div align="center">
 
