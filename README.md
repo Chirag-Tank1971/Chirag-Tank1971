@@ -34,7 +34,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
     <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg">
-    <img alt="3D contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="680">
+    <img alt="3D contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="520">
   </picture>
 </div>
 
