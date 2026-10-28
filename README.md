@@ -21,18 +21,9 @@
 <!-- ============ ABOUT ============ -->
 ## 👨‍💻 About Me
 
-```js
-const chirag = {
-  role: "Full Stack Developer @ Mintergraph (Jaipur)",
-  education: ["MCA (2026)", "BCA (2024)"],
-  stack: ["React", "Node.js", "ASP.NET Core", "FastAPI"],
-  aiFocus: ["Gemini API", "OpenRouter", "RAG", "Chroma"],
-  currentlyBuilding: "HR Quarterly Review & Appraisal System (KRA scoring)",
-  openTo: ["Remote work", "Relocation", "Collaboration"],
-};
-```
-
-> I build and deploy full-stack apps and like shipping practical AI features that real users actually benefit from.
+<div align="center">
+  <img src="./assets/about-card.svg" alt="About Chirag Tank" width="820" />
+</div>
 
 <br/>
 
