@@ -32,7 +32,7 @@ I build and deploy full-stack applications with **React, Node.js, ASP.NET Core a
 
 <div align="center">
 
-<img alt="3D contribution graph" src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
+<img alt="3D contribution graph" src="./profile-3d-contrib/profile-night-view.svg" width="680" />
 
 </div>
 
