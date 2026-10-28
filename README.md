@@ -31,7 +31,7 @@ I'm a full stack developer who builds and deploys web apps with React, Node.js, 
 <br/>
 
 <!-- ============ 3D CONTRIBUTIONS ============ -->
-## 🧊 My 3D Contribution Graph
+## 🧊 My Contribution Graph
 
 <div align="center">
   <picture>
