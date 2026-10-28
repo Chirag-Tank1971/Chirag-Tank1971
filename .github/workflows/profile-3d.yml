@@ -1,43 +1,27 @@
-# 3D graph style preview
+name: GitHub-Profile-3D-Contrib
 
-Open this file in your repo to compare styles. To switch, change the file name in the `<img src=...>` line in `README.md`.
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
 
-### `profile-green-animate.svg`
+permissions:
+  contents: write
 
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="420" />
-
-### `profile-green.svg`
-
-<img src="./profile-3d-contrib/profile-green.svg" width="420" />
-
-### `profile-season-animate.svg`
-
-<img src="./profile-3d-contrib/profile-season-animate.svg" width="420" />
-
-### `profile-season.svg`
-
-<img src="./profile-3d-contrib/profile-season.svg" width="420" />
-
-### `profile-south-season-animate.svg`
-
-<img src="./profile-3d-contrib/profile-south-season-animate.svg" width="420" />
-
-### `profile-south-season.svg`
-
-<img src="./profile-3d-contrib/profile-south-season.svg" width="420" />
-
-### `profile-night-view.svg`
-
-<img src="./profile-3d-contrib/profile-night-view.svg" width="420" />
-
-### `profile-night-green.svg`
-
-<img src="./profile-3d-contrib/profile-night-green.svg" width="420" />
-
-### `profile-night-rainbow.svg`
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="420" />
-
-### `profile-gitblock.svg`
-
-<img src="./profile-3d-contrib/profile-gitblock.svg" width="420" />
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git diff --cached --quiet || git commit -m "generated"
+          git push
