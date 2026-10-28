@@ -43,7 +43,7 @@ const chirag = {
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
     <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg">
-    <img alt="3D contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+    <img alt="3D contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="680">
   </picture>
 </div>
 
@@ -160,7 +160,9 @@ const chirag = {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chirag-Tank1971&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&custom_title=Contribution%20Activity" width="100%" />
+  <a href="https://github.com/Chirag-Tank1971/TaskFlow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chirag-Tank1971&repo=TaskFlow&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=12" alt="TaskFlow repo card" />
+  </a>
 </div>
 
 <br/>
@@ -170,7 +172,7 @@ const chirag = {
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chirag-Tank1971/Chirag-Tank1971/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chirag-Tank1971/Chirag-Tank1971/output/github-snake.svg" />
-    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Chirag-Tank1971/Chirag-Tank1971/output/github-snake.svg" />
+    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Chirag-Tank1971/Chirag-Tank1971/output/github-snake.svg" width="85%" />
   </picture>
 </div>
 
