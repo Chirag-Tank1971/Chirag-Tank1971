@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Chirag%20Tank&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Integrations&descSize=20&descAlignY=60" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines= Building+full-stack+products+with+MERN+%26+ASP.NET+Core;Adding+practical+AI+(Gemini%2C+OpenRouter%2C+RAG)+to+real+apps;MCA+%7C+Full+Stack+Developer+%40+Mintergraph;Open+to+remote+work+%26+relocation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+full-stack+products+with+MERN+%26+ASP.NET+Core;Adding+practical+AI+(Gemini%2C+OpenRouter%2C+RAG)+to+real+apps;MCA+%7C+Full+Stack+Developer+%40+Mintergraph;Open+to+remote+work+%26+relocation" alt="Typing SVG" />
 </a>
 
 <br/>
