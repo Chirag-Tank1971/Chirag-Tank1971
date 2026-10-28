@@ -21,9 +21,12 @@
 <!-- ============ ABOUT ============ -->
 ## 👨‍💻 About Me
 
-<div align="center">
-  <img src="./assets/about-card.svg" alt="About Chirag Tank" width="820" />
-</div>
+I'm a full stack developer who builds and deploys web apps with React, Node.js, ASP.NET Core and Python, and adds practical AI features (Gemini, OpenRouter, RAG) to real products.
+
+- 💼 Full Stack Developer at **Mintergraph**, Jaipur
+- 🔨 Building an HR Quarterly Review & Appraisal System (MERN, KRA scoring)
+- 🎓 MCA (2026) · BCA (2024)
+- 🤝 Open to remote work, relocation and collaboration
 
 <br/>
 
@@ -105,36 +108,15 @@
 <!-- ============ TECH STACK ============ -->
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css" /><br/><br/>
-
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,angular,tailwind" /><br/><br/>
-
-**Backend**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,fastapi" /><br/><br/>
-
-**Databases**<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" /> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48" /><br/><br/>
-
-**Cloud & DevOps**<br/>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,aws,vercel,git" /><br/><br/>
-
-**AI & LLM**<br/>
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-00D9FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Chroma-FF6446?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge" /><br/><br/>
-
-**Testing & Tools**<br/>
-<img src="https://skillicons.dev/icons?i=jest,postman,postgres" />
-<img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-
-</div>
+| Category | Technologies |
+|:--|:--|
+| **Languages** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/C#-512BD4?style=flat-square" alt="C#" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square" alt="CSS3" /> |
+| **Frontend** | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" /> |
+| **Backend** | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/REST%20APIs-0F4C81?style=flat-square" alt="REST APIs" /> <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square" alt="WebSockets" /> |
+| **Databases** | <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Chroma-FF6446?style=flat-square" alt="Chroma" /> |
+| **Cloud & DevOps** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="AWS S3" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" /> <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> |
+| **AI & LLM** | <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" /> <img src="https://img.shields.io/badge/OpenRouter-6467F2?style=flat-square" alt="OpenRouter" /> <img src="https://img.shields.io/badge/RAG-0F766E?style=flat-square" alt="RAG" /> <img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=flat-square" alt="Prompt Engineering" /> |
+| **Testing & Tools** | <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" /> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" /> |
 
 <br/>
 
