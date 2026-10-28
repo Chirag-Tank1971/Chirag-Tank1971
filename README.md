@@ -49,7 +49,7 @@ I'm a full stack developer who builds and deploys web apps with React, Node.js, 
 | **Sept 2026 – Present** | **Full Stack Developer**, Mintergraph | HR Quarterly Review & Appraisal System: admin, manager and employee workflows with automated KRA scoring (MERN) |
 | **Oct 2025 – Jan 2026** | **Associate Full Stack Developer** (Contract), Myna Solutions | Online tutoring platform: React, Node.js, AWS S3, WebSocket live sessions |
 | **May – Aug 2025** | **.NET Full Stack Intern**, Pratham Software | Social platform on ASP.NET Core, SQL Server, Angular; ~30% faster queries; AI chat via OpenRouter |
-| **3 months** | **Full-Stack Web Developer Intern**, The Good Custom | Hands-on full-stack web development |
+| **6 months** | **Full-Stack Web Developer Intern**, The Good Custom | Hands-on full-stack web development |
 
 <br/>
 
